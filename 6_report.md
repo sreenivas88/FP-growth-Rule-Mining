@@ -1,4 +1,4 @@
-# FP-growth-Rule-Mining: Movie Recommendation System Report
+# Movie Recommendation System Report
 
 ## 1. Introduction
 
